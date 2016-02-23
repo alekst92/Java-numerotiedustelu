@@ -1,2 +1,2 @@
 # Java-numerotiedustelu
-Pieni käyttöliittymä + luokat
+Pieni tekstipohjainen käyttöliittymä + luokat
